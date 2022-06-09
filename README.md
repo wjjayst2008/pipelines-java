@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/JunjieWu0347/AzureTest/_apis/build/status/wjjayst2008.pipelines-java?branchName=main)](https://dev.azure.com/JunjieWu0347/AzureTest/_build/latest?definitionId=1&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
